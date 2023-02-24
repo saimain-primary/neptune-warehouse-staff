@@ -4,9 +4,14 @@
     <div class="w-full h-screen">
       <div class="relative">
         <TopNav/>
+        
       </div>
       
-      <slot></slot>
+      <div class="">
+        <div class="pt-[75px]">
+          <slot></slot>
+        </div>
+      </div>
 
       <Footer/>
     </div>

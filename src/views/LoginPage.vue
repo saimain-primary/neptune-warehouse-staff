@@ -6,7 +6,7 @@
         <h1 class="text-xl sm:text-2xl md:text-2xl font-bold">Sign in to your account</h1>
         
       </div>
-      <div class=" mt-5 bg-white px-4 py-6 space-y-3 border border-gray-200 shadow-sm ">
+      <div class=" mt-5 bg-white px-4 py-6 space-y-3 border border-gray-200 shadow-sm rounded">
         <div class=" space-y-2">
           <p class=" text-base lg:text-md font-semibold text-gray-600">Email address</p>
           <input type="email"  class=" w-full border border-gray-400 rounded-lg px-3 py-2" placeholder="enter your email">
